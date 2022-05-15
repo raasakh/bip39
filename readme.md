@@ -1,5 +1,7 @@
 # BIP39 Tool
 
+https://vc.ru/crypto/161989-vytyanut-privatnyy-klyuch-iz-sid-frazy
+
 A tool for converting BIP39 mnemonic phrases to addresses and private keys.
 
 ## Online Version
